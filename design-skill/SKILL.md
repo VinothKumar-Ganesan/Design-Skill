@@ -1,3 +1,9 @@
+---
+name: Designing-Skill—CLISkill
+description: Use this skill for beginner designers with a guided, hands-on starter that scaffolds simple design projects (landing page, logo, mobile UI) and actionable checklists to learn the design process.
+compatibility: Javascript
+---
+
 # Designing Skill — CLI Skill Definition
 
 ## Name
